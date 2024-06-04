@@ -1,3 +1,5 @@
+[Uploading Magisk-27.0(27000).zip…]()
+[Uploading Magisk-27.0(27000).zip…]()
 # Magisk Changelog
 
 ### v27.0
